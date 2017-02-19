@@ -346,7 +346,7 @@ section{
 
 /*Home page*/
 .header{
-	background-image: url(../images/1.jpg);
+	background-image: url(../images/bg.png);
 	height: 100vh;
 	position: relative;
 	min-height: 659px;
@@ -416,7 +416,7 @@ section{
 
 
 .vira-quote{
-	background-image: url(../images/3.jpg);
+	background-image: url(../images/bg2.png);
 	/*padding: 120px 0;*/
 	color: #fff;
 	font-style: italic;
